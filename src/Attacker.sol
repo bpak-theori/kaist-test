@@ -17,6 +17,7 @@ contract ReentrancyAttacker {
         // Write your own code.
         // You have 10 deposit balance.
         // Be careful that the target (vulnerable) contract has 10_020 ethereum total.
+        
     }
 }
 
